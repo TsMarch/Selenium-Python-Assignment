@@ -1,4 +1,4 @@
-# Tensor-Test-Assignment
+# Selenium Test Assignment
 Автотестирование поисковика yandex и yandex картинок. При падении теста причина будет выведена в окно командной строки.
 
 # Requirements
